@@ -1,7 +1,7 @@
-#🧠 Breast Cancer Prediction Using Machine Learning
-#In this project, I created a machine learning model to predict whether a breast tumor is benign or malignant using the Breast Cancer Wisconsin Dataset. I followed #12 simple steps including data analysis, preprocessing, model training, and saving the final model.The model I built using Support Vector Machine (SVM) gave a #high accuracy of 97% on the test data.
+#Breast Cancer Prediction Using Machine Learning
+In this project, I created a machine learning model to predict whether a breast tumor is benign or malignant using the Breast Cancer Wisconsin Dataset. I followed #12 simple steps including data analysis, preprocessing, model training, and saving the final model.The model I built using Support Vector Machine (SVM) gave a #high accuracy of 97% on the test data.
 
-#🗂️ Project Pipeline – 12 Simple & Powerful Steps
+#Project Pipeline – 12 Simple & Powerful Steps
 
 1️. Importing Required Libraries
 I started by importing all the essential libraries like pandas, numpy, matplotlib, seaborn, and scikit-learn to perform data manipulation, visualization, model training, and evaluation. This sets up the environment.
